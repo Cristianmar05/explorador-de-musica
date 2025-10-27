@@ -21,9 +21,9 @@ El desarrollo y ejecución se realizaron en **Visual Studio Code (VS Code)**.
 ## 🎵 Canciones utilizadas como ejemplo
 | Nombre | Artista | Género | Región |
 |---------|----------|---------|--------|
-| Amarte más no pude | Diomedes Díaz | Vallenato | Valledupar |
-| Las Vainas | Diomedes Díaz | Vallenato | Valledupar |
-| Volvamos | Diomedes Díaz | Vallenato | Valledupar |
+| Amarte más no pude | Diomedes Díaz | Vallenato | co |
+| Las Vainas | Diomedes Díaz | Vallenato | co |
+| Volvamos | Diomedes Díaz | Vallenato | co |
 
 ---
 
@@ -51,3 +51,4 @@ El desarrollo y ejecución se realizaron en **Visual Studio Code (VS Code)**.
 1. Clona el repositorio o descarga el código fuente:
 
 enlace del video: [video](https://youtu.be/to_q1VduzKM)
+
